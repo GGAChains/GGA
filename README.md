@@ -50,4 +50,3 @@ Dev@GGAchains.com
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of GGA for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
-- GGA announces 
