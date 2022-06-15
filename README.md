@@ -40,7 +40,7 @@ chainid 8001
 #### Test PRC
 https://node10.spechains.com
 #### Blockchain Explorer
-https://scan.spechains.com
+https://explore.spechains.com
 
 
 #### Technical Support Email
