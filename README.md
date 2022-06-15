@@ -25,6 +25,4 @@ The meta-transaction function is supported, which allows users to reduce gas fee
 - In order to reduce the cost of users on GGA Dapp, the GGA meta transaction function will reduce the gas fee of users holding GGA in a step-wise manner.
 
 
-## Risk Warning
-- All users and developers can participate in the current test environment and subsequent stages of GGA for free, and there is no charging scenario.
-- All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
+
