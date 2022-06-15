@@ -24,5 +24,7 @@ The meta-transaction function is supported, which allows users to reduce gas fee
 - GGA will launch a variety of developer activities and competitions to discover and fund potential developers. 
 - In order to reduce the cost of users on GGA Dapp, the GGA meta transaction function will reduce the gas fee of users holding GGA in a step-wise manner.
 
-
-
+### Resource Support
+- Projects or developers that have received investment and support from GGA have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
+- High-quality projects can participate in GGA global roadshows for free.
+- GGA fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
