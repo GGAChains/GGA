@@ -35,7 +35,7 @@ The meta-transaction function is supported, which allows users to reduce gas fee
 www.GGAchains.com
 
 #### Public Testnet
-chainid 8001
+chainid 80001
 
 #### Test PRC
 https://node10.spechains.com
