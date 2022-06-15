@@ -29,24 +29,6 @@ The meta-transaction function is supported, which allows users to reduce gas fee
 - High-quality projects can participate in GGA global roadshows for free.
 - GGA fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
-### Participate in Test Environment of GGA
-
-#### Official Website
-www.GGAchains.com
-
-#### Public Testnet
-chainid 80001
-
-#### Test PRC
-https://node10.spechains.com
-#### Blockchain Explorer
-https://explore.spechains.com
-
-
-#### Technical Support Email
-
-Dev@GGAchains.com
-
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of GGA for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
